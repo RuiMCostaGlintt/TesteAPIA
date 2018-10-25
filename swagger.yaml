@@ -45,7 +45,7 @@ definitions:
       - question
       - choices
     example:
-      question: Favourite programming language?
+      question: Favourite programming language test?
       choices:
         - Swift
         - Python
